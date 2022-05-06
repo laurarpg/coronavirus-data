@@ -20,3 +20,8 @@ Poverty,Low poverty,661587,219385,0.332,40680.168
 Poverty,Medium poverty,1419057,542446,0.382,40554.469
 Poverty,High poverty,798065,335358,0.42,38895.854
 Poverty,Very high poverty,392270,167820,0.428,33829.049
+
+
+As noted separately, this data does not square to data by age that was posted in September.  Please see ticket for more details:  https://github.com/nychealth/coronavirus-data/issues/244  
+
+Request follow-up analysis to validate number of incremental additional tests and incremental additional positives between September-May so these data sets can be correctly understood together.
